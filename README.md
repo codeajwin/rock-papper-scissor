@@ -1,1 +1,1 @@
-# rock-papper-scissor
+This is a project in which iam going to make a game called rock papper scissors.
